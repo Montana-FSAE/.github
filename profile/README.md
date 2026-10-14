@@ -2,11 +2,13 @@
 
 Formula SAE team at **Montana State University** in Bozeman, MT. We design, build, and race a formula-style car every season.
 
+🌐 **[montanafsae.com](https://montanafsae.com)**
+
 This org holds the team's software, firmware, hardware, and data tooling.
 
-## Subteams
+## Subsystems
 
-| Subteam | What lives here |
+| Subsystem | What lives here |
 |---|---|
 | Electrical Systems | ESys software |
 | Aero | Aero software |
@@ -15,7 +17,7 @@ More to come.
 
 ## Repo naming
 
-`<subteam>-<project>` in lowercase-kebab-case, e.g. `esys-pdm-firmware`, `aero-cfd-scripts`.
+`<subsystem>-<project>` in lowercase-kebab-case, e.g. `esys-pdm-firmware`, `aero-cfd-scripts`.
 
 Prefixes: `esys`, `aero`, `team` (cross-team).
 
