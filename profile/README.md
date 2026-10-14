@@ -8,17 +8,16 @@ This org holds the team's software, firmware, hardware, and data tooling.
 
 | Subteam | What lives here |
 |---|---|
-| Electrical / DAQ | CAN bus (DBC files, generated C), sensor nodes, PDM, data logger, dash |
-| Powertrain | ECU tune/config, engine and fuel system data |
-| Chassis / Suspension | Analysis scripts, setup sheets, sim |
-| Aero | CFD setups, post-processing |
-| Business / Ops | Sponsor docs, scheduling, internal tools |
+| Electrical Systems | ESys software |
+| Aero | Aero software |
+
+More to come.
 
 ## Repo naming
 
-`<subteam>-<project>` in lowercase-kebab-case, e.g. `elec-pdm-firmware`, `elec-can-dbc`, `pt-ecu-tune`, `sus-kinematics`, `aero-cfd-scripts`.
+`<subteam>-<project>` in lowercase-kebab-case, e.g. `esys-pdm-firmware`, `aero-cfd-scripts`.
 
-Prefixes: `elec`, `pt`, `sus`, `chassis`, `aero`, `bus`, `team` (cross-team).
+Prefixes: `esys`, `aero`, `team` (cross-team).
 
 ## Getting started
 
