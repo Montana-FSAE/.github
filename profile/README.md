@@ -4,7 +4,7 @@ Formula SAE team at **Montana State University** in Bozeman, MT. We design, buil
 
 🌐 **[montanafsae.com](https://montanafsae.com)**
 
-This org holds the team's software, firmware, hardware, and data tooling.
+This org holds the team's software, and git trackable hardware.
 
 ## Subsystems
 
@@ -29,4 +29,4 @@ Prefixes: `esys`, `aero`, `team` (cross-team).
 
 ## Sponsors
 
-We're a small-budget team and rely on our sponsors. Interested in supporting us? Reach out to the team leads.
+We're a small-budget team and rely on our sponsors. Interested in supporting us? Reach out!
