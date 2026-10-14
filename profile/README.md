@@ -4,22 +4,22 @@ Formula SAE team at **Montana State University** in Bozeman, MT. We design, buil
 
 🌐 **[montanafsae.com](https://montanafsae.com)**
 
-This org holds the team's software, and git trackable hardware.
+This org holds the team's software.
 
 ## Subsystems
 
-| Subsystem | What lives here |
-|---|---|
-| Electrical Systems | ESys software |
-| Aero | Aero software |
-
-More to come.
+| Subsystem | Repo prefix | Team |
+|---|---|---|
+| Electrical Systems | `esys` | @Montana-FSAE/esys |
+| Aero | `aero` | @Montana-FSAE/aero |
+| Drivetrain | `drivetrain` | @Montana-FSAE/drivetrain |
+| SSB | `ssb` | @Montana-FSAE/ssb |
+| Ergo | `ergo` | @Montana-FSAE/ergo |
+| Cross-team | `team` | @Montana-FSAE/leads |
 
 ## Repo naming
 
-`<subsystem>-<project>` in lowercase-kebab-case, e.g. `esys-pdm-firmware`, `aero-cfd-scripts`.
-
-Prefixes: `esys`, `aero`, `team` (cross-team).
+`<prefix>-<project>` in lowercase-kebab-case, e.g. `esys-pdm-firmware`, `aero-cfd-scripts`.
 
 ## Getting started
 
